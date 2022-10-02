@@ -6,4 +6,4 @@ function helloWorld(req, res, next){
 };
 app.use("/home", helloWorld);
 app.listen(3000);
-console.log('Server running at http://localhost:3000/');
+console.log('Server running at http://localhost:3000/'); 
