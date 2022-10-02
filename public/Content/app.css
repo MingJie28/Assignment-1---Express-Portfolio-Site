@@ -17,3 +17,16 @@ body {
 .nav_colour{
   color:white;
 }
+
+img{
+  width:30%;
+  height:40%;
+  float: left;
+  padding-right: 5%;
+}
+
+.about{
+  padding: 10%;
+  background-color: aliceblue;
+  padding-bottom: 20%;
+}
