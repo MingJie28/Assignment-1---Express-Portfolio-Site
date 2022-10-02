@@ -1,0 +1,24 @@
+/*Custom css goes here*/
+body {
+  padding: 0px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: rgb(164, 181, 199);
+}
+
+.container, .container-sm {
+  padding: 5%;
+  background-color: rgb(241, 234, 241);
+}
+
+.logo{
+  width: 70px;
+  height: 50px;
+}
+
+.navbar-brand{
+  padding-left: 5%;
+}
+
+.nav_colour{
+  color:white;
+}
