@@ -10,6 +10,12 @@ body {
   height: 50px;
 }
 
+.right{
+  text-align: right;
+  float: right;
+  
+}
+
 .navbar-brand{
   padding-left: 5%;
 }
