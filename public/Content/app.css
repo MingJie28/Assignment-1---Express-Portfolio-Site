@@ -1,4 +1,5 @@
-/*Custom css goes here*/
+/*app.css, Ming Jie Wang, 301188372, Oct.2,2022*/
+/*Custom css*/
 body {
   padding: 0px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
@@ -90,4 +91,9 @@ td, th {
   margin-right: 10px;
 }
 
+#resize{
+  width:20%;
+  float: right;
+  padding-top: 10%;
+}
 
